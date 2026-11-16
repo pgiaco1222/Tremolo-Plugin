@@ -4,7 +4,7 @@
 BEGIN_JUCE_MODULE_DECLARATION
 
    ID:            tremolo_plugin
-   vendor:        WolfSound
+   vendor:        Paul G
    version:       1.0.0
    name:          Tremolo Plugin
    description:   Core of the tremolo plugin
